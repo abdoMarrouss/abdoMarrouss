@@ -1,9 +1,7 @@
 <div align="center">
   
 # 👋 Hi, I'm Abdelilah Marrouss
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;NestJS+%26+Angular+Specialist;Building+Scalable+SaaS+Products;Open+to+European+Opportunities)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;NestJS+%26+Angular+Specialist;Building+Scalable+SaaS+Products)](https://git.io/typing-svg)
 </div>
 
 ---
@@ -42,12 +40,24 @@
 
 ### Other Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,php,spring,kafka,figma" />
+  <img src="https://skillicons.dev/icons?i=java,php,spring,figma" />
 </p>
 
 ---
 
-## 🎯 Featured Projects
+## 💼 Professional Experience
+
+**Full Stack Developer** | *2+ Years Experience*
+
+- 🏥 Developed healthcare SaaS platforms serving thousands of patients
+- 🔧 Built code-generation tools and authentication systems with Keycloak
+- 📊 Created patient-facing services with automated workflows
+- 🛠️ Worked with microservices architecture using Kafka and Docker
+- 💻 Technologies: NestJS, Angular, PostgreSQL, Redis, MongoDB, TypeORM
+
+---
+
+## 🎯 Personal Projects
 
 <div align="center">
 
@@ -85,13 +95,12 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdelilahmarrouss/">
+  <a href="https://www.linkedin.com/in/abdelilah-marrouss/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:marrouss.abdelilah@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
   <a href="https://github.com/abdoMarrouss">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -101,7 +110,7 @@
 
 <div align="center">
   
-### 💡 Open to Opportunities
+### 💡 Open to Opportunities in Europe 🇪🇺
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abdoMarrouss&color=blueviolet&style=for-the-badge)
 
