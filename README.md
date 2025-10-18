@@ -10,17 +10,11 @@
 
 ## 🚀 About Me
 
-```typescript
-const abdelilah = {
-    location: "Rabat, Morocco 🇲🇦",
-    role: "Full Stack Developer",
-    company: "Ziwig Biotech",
-    experience: "2+ years",
-    lookingFor: "Opportunities in Europe 🇪🇺",
-    interests: ["SaaS", "Web Analytics", "AI Integration", "Automation"],
-    currentProject: "Vizitro - Privacy-First Analytics Platform"
-};
-```
+💻 Full Stack Developer with 2+ years of experience building scalable SaaS applications  
+📍 Based in Rabat, Morocco 🇲🇦  
+🎯 Specializing in NestJS & Angular  
+🌍 Open to opportunities in Europe 🇪🇺  
+🚀 Passionate about building real-world products that solve problems
 
 ---
 
@@ -43,7 +37,7 @@ const abdelilah = {
 
 ### Tools & DevOps
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,azure" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,kafka,linux,azure" />
 </p>
 
 ### Other Technologies
@@ -79,50 +73,6 @@ const abdelilah = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdoMarrouss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdoMarrouss&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdoMarrouss&theme=tokyonight)](https://git.io/streak-stats)
-  
-</div>
-
----
-
-## 💼 Professional Experience
-
-**🏢 Web Development Engineer** @ Ziwig Biotech  
-📅 *March 2024 - Present | Rabat, Morocco*
-
-- 🏥 Building healthcare SaaS platforms serving **5,000+ patients**
-- 🔧 Developed code-generation tools and authentication systems
-- 💻 Tech: NestJS, Angular, PostgreSQL, Redis, MongoDB, Docker
-
----
-
-## 🎓 Education
-
-**🎓 Master's Degree** - Big Data and Internet of Things  
-*National School of Arts and Crafts (ENSAM) - Casablanca, 2023*
-
-**🎓 Professional Bachelor's Degree** - Business Intelligence  
-*Higher School of Technology (EST) - Guelmim, 2021*
-
----
-
-## 🏆 Certifications
-
-![Scrum](https://img.shields.io/badge/Scrum-Foundation-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white)
-
----
-
 ## 🌐 Languages
 
 🇬🇧 **English:** C1 (Professional)  
@@ -135,15 +85,13 @@ const abdelilah = {
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdelilahmarrouss/">
+  <a href="[https://www.linkedin.com/in/abdelilahmarrouss/](https://www.linkedin.com/in/abdelilah-marrouss/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:marrouss.abdelilah@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://vizitro.com">
-    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
+
   <a href="https://github.com/abdoMarrouss">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -153,7 +101,7 @@ const abdelilah = {
 
 <div align="center">
   
-### 💡 Open to Opportunities in Europe | Available for Relocation 🇪🇺
+### 💡 Open to Opportunities
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abdoMarrouss&color=blueviolet&style=for-the-badge)
 
