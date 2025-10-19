@@ -45,46 +45,6 @@
 
 ---
 
-## 💼 Professional Experience
-
-**Full Stack Developer** | *2+ Years Experience*
-
-- 🏥 Developed healthcare SaaS platforms serving thousands of patients
-- 🔧 Built code-generation tools and authentication systems with Keycloak
-- 📊 Created patient-facing services with automated workflows
-- 🛠️ Worked with microservices architecture using Kafka and Docker
-- 💻 Technologies: NestJS, Angular, PostgreSQL, Redis, MongoDB, TypeORM
-
----
-
-## 🎯 Personal Projects
-
-<div align="center">
-
-### 🚀 [Vizitro](https://github.com/abdoMarrouss/vizitro) - Privacy-First Web Analytics
-**Production SaaS Platform** | 🌐 **Live:** [vizitro.com](https://vizitro.com)
-
-*A GDPR-compliant analytics platform with real-time tracking and multi-tenant architecture*
-
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VPS](https://img.shields.io/badge/VPS-4285F4?style=for-the-badge&logo=server&logoColor=white)
-
-</div>
-
-### 🎨 Other Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [**Image AI Generator**](https://github.com/abdoMarrouss/image-ai-generator-api) | AI-powered image generation API | NestJS, Stability AI |
-| [**Stability AI Art Generator**](https://github.com/abdoMarrouss/stability-ai-api-implementation-art-generator) | Art creation using Stability AI | NestJS, Angular |
-| [**Tailwind CSS Template**](https://github.com/abdoMarrouss/tailwind-css-angular-template) | Angular template with Tailwind | Angular, Tailwind CSS |
-
----
-
 ## 🌐 Languages
 
 🇬🇧 **English:** C1 (Professional)  
@@ -108,14 +68,3 @@
   </a>
 </p>
 
----
-
-<div align="center">
-  
-### 💡 Open to Opportunities in Europe 🇪🇺
-
-![Profile Views](https://komarev.com/ghpvc/?username=abdoMarrouss&color=blueviolet&style=for-the-badge)
-
-⭐️ **If you like my work, consider giving a star to my repositories!**
-
-</div>
