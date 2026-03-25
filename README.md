@@ -50,7 +50,7 @@
 🇬🇧 **English:** C1 (Professional)  
 🇫🇷 **French:** C1 (Professional)  
 🇲🇦 **Arabic:** Native  
-🇪🇸 **Spanish:** A1 (Beginner)
+🇪🇸 **Spanish:** = A2-B1
 
 ---
 
